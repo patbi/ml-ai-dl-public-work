@@ -31,4 +31,4 @@ $ git clone https://github.com/patbi/ml-ai-dl-public-work.git
 <!-- ABOUT THE PROJECT DEMO -->
 ### About This project
 
-![Preview](https://github.com/patbi/ml-ai-dl-public-work/tree/main/investors/TestMCPTool.PNG)
+![Preview](https://github.com/patbi/ml-ai-dl-public-work/blob/main/investors/TestMCPTool.PNG)
