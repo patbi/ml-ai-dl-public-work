@@ -26,7 +26,7 @@ def PredictChurn(data:List[dict]) -> str:
 		str: 1=churn or 0 = no churn"""
 
 	payload = data[0]
-	response = requests.post("http://127.0.0.1:80000", headers={"Accept":"application/json", "Content-Type":"application/json"}, data=json.dumps(payload),
+	response = requests.post("http://127.0.0.1:8000", headers={"Accept":"application/json", "Content-Type":"application/json"}, data=json.dumps(payload),
 	)
 
 	return response.json()
